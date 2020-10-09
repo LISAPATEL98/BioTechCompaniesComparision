@@ -1,5 +1,5 @@
 ## BioTech Companies Comparision
-<b>BioGen Vs Bristol Myers Squibb </b>
+<b>BioGen Vs Bristol Myers Squibb </b><br>
 Conducted a comparative study by performing quantitative and qualitative analysis of both the companies.
 Here, the two compaines are choosen from the healthcare market.
 This analysis was conducted on the following elements:
